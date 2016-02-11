@@ -4,4 +4,5 @@ Da li ovo radi ?
 <?php
   echo("bravo doktoree");
 ?>
-Dodavanje jos jednog reda
+//////////////////
+Promena2
